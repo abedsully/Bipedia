@@ -1,0 +1,10 @@
+.profile-content label{
+    text-decoration: none;
+    color: #5BC0F8;
+    font-size: 14px;
+    cursor: pointer;
+}
+
+.profile-content input[type="file"]{
+    display: none;
+}

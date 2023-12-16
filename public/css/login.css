@@ -1,0 +1,36 @@
+*{
+    text-decoration: none;
+}
+
+html {
+    background-image: url("../assets/background.jpeg");
+    background-size: cover;
+    filter: brightness(80%);
+}
+
+.content {
+    margin-top: 20rem;
+    color: white;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 0rem 7rem;
+}
+
+.content img{
+    background-color: white;
+}
+
+.content p{
+    font-size: 20px;
+    text-align: center;
+}
+
+.content a{
+    border: 1px solid transparent;
+    color: white;
+    padding: 1rem;
+    background-color: brown;
+    border-radius: 5px;
+}
